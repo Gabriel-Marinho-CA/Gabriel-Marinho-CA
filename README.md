@@ -23,6 +23,6 @@
   <a href = "mailto:gabrielmca@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-marinho-409872170" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/Gabriel-Marinho-CA/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Gabriel-Marinho-CA/Gabriel-Marinho-CA/blob/output/github-contribution-grid-snake.svg)
  
 </div>
