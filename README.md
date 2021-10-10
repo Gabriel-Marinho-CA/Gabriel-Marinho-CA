@@ -1,7 +1,4 @@
-### Hello World me chamo Gabriel
-
-- 🔭 Atualmente trabalhando como desenvolvedor front-end 
-- 🌱 Estudando React / Typescript
+# Hello World! Me chamo Gabriel 
 
 <div align="center">
   <a href="https://github.com/Gabriel-Marinho-CA">
